@@ -1,4 +1,4 @@
-package com.weiker.myrpc;
+package com.weiker.myrpc.rpc;
 
 import com.weiker.myrpc.client.RpcImporter;
 import com.weiker.myrpc.server.EchoService;
